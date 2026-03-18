@@ -1,4 +1,3 @@
-# archive_files_to_azure_blob.py
 # Sync and archive local files to Azure Blob Storage with retention-based filtering
 
 import argparse
